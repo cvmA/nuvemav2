@@ -9,7 +9,7 @@ app.get("/", function(req,res){
 
 
 app.get("/equipe", function(req,res){
-    res.send("<h1>Equipe: Caio Vinicuis - Henry Marx - Joaquim Aires</h1>");
+    res.send("<h1>Caio Vinicuis - Henry Marx - Joaquim Aires</h1>");
 })
 
 app.get("/sobre", function(req,res){
